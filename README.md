@@ -1,0 +1,2 @@
+# ToNOt
+TONOTcoin
